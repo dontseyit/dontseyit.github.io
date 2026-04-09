@@ -1,0 +1,4 @@
+baseURL = 'https://dontseyit.github.io/'
+locale = 'en-us'
+title = 'Cauldron'
+theme = 'PaperMod'
