@@ -1,7 +1,7 @@
 ---
 title: "You Have Hit Your Limit"
-date: 2026-04-02
-draft: true
+date: 2026-04-06
+draft: false
 tags:
   - ai
   - tech
